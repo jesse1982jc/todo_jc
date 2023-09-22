@@ -1,0 +1,24 @@
+.todo-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.todo-input {
+  height: 2rem;
+  font-size: 1.5rem;
+}
+
+.todo-li {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.todo-li-input {
+  width: 2rem;
+}
+
+.todo-li-label {
+  font-size: 1.5rem;
+  padding-left: 0rem, 1rem;
+}
